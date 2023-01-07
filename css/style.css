@@ -1,0 +1,36 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #3f324d;
+}
+h1 {
+  color: #ffeacc;
+  font-weight: bolder;
+  margin: 2rem;
+}
+
+form {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+form input {
+  padding: 1rem;
+  width: 400px;
+  border: none;
+  margin-bottom: 1rem;
+  border-radius: 2px;
+}
+.btn {
+  background-color: #ff995e;
+  width: 200px;
+  cursor: pointer;
+  color: black;
+  transition: 0.2s;
+}
+.btn:hover {
+  transform: scaleX(1.1);
+  color: rgb(41, 41, 41);
+  background-color: #a5623b;
+  border-radius: 4px;
+}
