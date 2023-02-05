@@ -2,7 +2,7 @@
 
 ## 🎥Gif Project:
 
-![img](https://github.com/joaorezend3/consulta-cep-php-API/blob/master/consulta-cep.gif)
+![img]()
 
 ## Sobre o pojeto
 
